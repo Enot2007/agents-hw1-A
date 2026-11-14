@@ -1,0 +1,7 @@
+{
+  "total": "#total", "done": "#done", "progress": "#percent",
+  "item": "#task-list > li", "itemTitle": ".task__title", "itemToggle": "input[type=checkbox]", "itemDelete": "button.btn-delete",
+  "filterActive": "input[name=filter][value=active]",
+  "titleInput": "#title-input", "hoursInput": "#hours-input", "submit": "#add-form button[type=submit]",
+  "error": ".error"
+}

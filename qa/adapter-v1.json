@@ -1,0 +1,7 @@
+{
+  "total": "#totalHours", "done": "#doneHours", "progress": "#percent",
+  "item": "#list > li", "itemTitle": ".title", "itemToggle": "input.check", "itemDelete": "button.del",
+  "filterActive": "button[data-filter=active]",
+  "titleInput": "#nameInput", "hoursInput": "#hoursInput", "submit": "#form button[type=submit]",
+  "error": "#error"
+}
